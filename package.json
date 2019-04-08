@@ -1,0 +1,23 @@
+{
+  "name": "jquery-throttle-debounce",
+  "version": "1.0.0",
+  "description": "jQuery jQuery throttle / debounce: Sometimes, less is more!",
+  "main": "jquery.ba-throttle-debounce.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://akrug23@github.com/akrug23/jquery-throttle-debounce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akrug23/jquery-throttle-debounce/issues"
+  },
+  "homepage": "https://github.com/akrug23/jquery-throttle-debounce#readme"
+}
